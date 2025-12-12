@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "first.C": "cpp",
+        "Sum.C": "cpp",
+        "backup.C": "cpp",
+        "backup copy.C": "cpp",
+        "Sum copy.C": "cpp",
+        "calculator.C": "cpp",
+        "pyramid.C": "cpp",
+        "02_calculator.C": "cpp",
+        "00_first.C": "cpp",
+        "05_Sum.C": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/g++.exe"
+}
